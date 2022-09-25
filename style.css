@@ -477,7 +477,8 @@ align-items: center;
     .tag{
         /* border: 3px solid yellow; */
         line-height: 50px;
-        text-align: left;
+        
+
     }
     .about-section{
         max-width: 80%;
